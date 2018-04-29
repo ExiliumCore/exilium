@@ -1,5 +1,4 @@
-![Exilium](https://github.com/exilium/exilium/raw/master/src/qt/res/icons/bitcoin.png "Exilium")
-Exilium Core integration/staging tree
+Exilium Core integration/staging tree 1.0.0
 =====================================
 [![Build Status](https://travis-ci.org/exilium/exilium.svg?branch=master)](https://travis-ci.org/exilium/exilium)
 
