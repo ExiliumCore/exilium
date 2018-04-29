@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[exilium.qt-translation-012x]
+file_filter = src/qt/locale/exilium_<lang>.ts
+source_file = src/qt/locale/exilium_en.ts
+source_lang = en

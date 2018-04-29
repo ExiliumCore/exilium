@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=exilium
+Comment=exilium P2P Cryptocurrency
+Exec=exilium-qt %u
+Terminal=false
+Type=Application
+Icon=exilium128
+MimeType=x-scheme-handler/exilium;
+Categories=Office;Finance;
+Name[es_CO]=exilium-qt.desktop

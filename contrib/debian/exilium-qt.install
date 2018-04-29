@@ -1,0 +1,6 @@
+usr/local/bin/exilium-qt usr/bin
+share/pixmaps/exilium32.xpm usr/share/pixmaps
+share/pixmaps/exilium16.xpm usr/share/pixmaps
+share/pixmaps/exilium128.png usr/share/pixmaps
+debian/exilium-qt.desktop usr/share/applications
+debian/exilium-qt.protocol usr/share/kde4/services/
