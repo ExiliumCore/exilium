@@ -1,4 +1,4 @@
-Exilium Core integration/staging tree 1.0.0
+Exilium Core integration/staging tree 1.0.0.1
 =====================================
 [![Build Status](https://travis-ci.org/exilium/exilium.svg?branch=master)](https://travis-ci.org/exilium/exilium)
 
